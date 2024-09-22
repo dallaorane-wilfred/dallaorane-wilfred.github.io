@@ -29,7 +29,5 @@ redirect_from:
 - **Languages**: French (Native), English (B1+)
 - **Interests**: Football, Basketball, Handball, Swimming, Music, Reading
 
-## Leadership & Extracurricular Activities
-- **Mathematics Tutor**, University of Bordeaux (2020-2021)
-- **Pedagogical Affairs Leader**, Chadian Students in Bordeaux (2020-2021)
+
 
