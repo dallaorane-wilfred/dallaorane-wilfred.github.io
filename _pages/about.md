@@ -27,6 +27,6 @@ Voici quelques projets clés sur lesquels j'ai travaillé :
 - **Analyse scientifique** : Analyse d'un article scientifique portant sur l'intelligence artificielle pour la détection de maladies. Ce projet se concentre sur l'application de techniques d'IA pour améliorer la précision des diagnostics médicaux.
 
 ## Liens pertinents
-- [CV Professionnel](https://votresite.com/fichiers/Wilfred_CV.pdf)
+- [CV Professionnel](https://dallaorane-wilfred.github.io/files/Wilfred_cv.pdf)
 - [Profil GitHub](https://github.com/dallaorane-wilfred)
 - [Profil LinkedIn](https://www.linkedin.com/in/wilfred-dallaorane)
