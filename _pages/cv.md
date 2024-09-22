@@ -7,32 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+- **Master 1 Business and Data Analyst (International Track)**, University of Grenoble Alpes, Expected September 2024 - Present
+- **Bachelor's Degree in Applied Economics and Data Analysis**, University of Grenoble Alpes, September 2023 - May 2024
+- **Bachelor's Degree in Economics and Management (Quantitative Management Track)**, Catholic University of Central Africa, September 2020 - May 2023
+- **Scientific Baccalaureate (Series D)**, Lycée Notre Dame du Tchad, September 2018 - May 2019
 
-Education
-======
-* B.S. Mathematics, Applied Mathematics and Social Sciences or Computer Science, University of Bordeaux, 2020
-* M.S. Applied Mathematics & Statistics, Specialization in Statistical & Stochastic Modeling, University of Bordeaux, 2022
-* PHD. Applied Mathematics, Deep Learning Techniques for Physics-Based Numerical Simulations, University of Grenoble Alpes, March 2023 - March 2026
+## Work Experience
+- **Private Math Tutor**, Grenoble, France (November 2023 - May 2024)
+    - Tutored a middle school student, focusing on exam preparation for the "Brevet".
+    
+- **Intern**, Ecobank Chad, N'Djamena, Chad (August 2022 - September 2022)
+    - Managed client relationships and assisted with credit monitoring and implementation.
+    
+- **Intern**, ETS Papa Bego, N'Djamena, Chad (May 2023 - June 2023)
+    - Analyzed financial statements and recorded business transactions.
 
-Work experience
-======
-* January 2023 - Current: PHD Student Machine Learning (Eviden and Inria)
-* March 2022 - August 2022: Machine Learning Intern Researcher (Atos and Inria)
- 
+## Skills
+- **Programming Languages**: Python, R, SQL
+- **Software**: Git, PowerBI, RStudio, Excel, Word, PowerPoint
+- **Languages**: French (Native), English (B1+)
+- **Interests**: Football, Basketball, Handball, Swimming, Music, Reading
 
-  
-Skills
-======
-* Deep Learning
-* Probability theory
-* Stochastic modeling
+## Leadership & Extracurricular Activities
+- **Mathematics Tutor**, University of Bordeaux (2020-2021)
+- **Pedagogical Affairs Leader**, Chadian Students in Bordeaux (2020-2021)
 
-
-
-  
-Service and leadership
-======
-* Mathematics Teaching Assistant, University of Grenoble Alps (2023-2024)
-* Mathematics Tutor, University of Bordeaux (2020 - 2021)
-* In charge of pedagogical affairs for Chadian students in Bordeaux (2020-2021)
