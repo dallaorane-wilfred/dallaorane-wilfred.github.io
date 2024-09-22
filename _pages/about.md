@@ -1,38 +1,33 @@
 ---
 permalink: /
 title: "Homepage"
-excerpt: "Welcome on my personal website"
+excerpt: "Welcome to my personal website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome on my personal page!
+Welcome to my personal page!
 
+## Who am I?
+I am a Master 1 student specializing in **Business and Data Analysis** at the University of Grenoble Alpes. I have a strong background in applied mathematics, economics, and quantitative analysis, and I'm passionate about leveraging data for insights and decision-making. I have prior experience in banking and economic analysis, and I am currently expanding my expertise in machine learning and data science.
 
-Who am I ?
----
-I am a PHD Student in Machine Learning in the joint
-laboratory between AI4Sim ([Github public
-repo](https://github.com/AI4SIM)), which is part of Eviden (ex Bull/Atos) R&D
-department, and [AIRSEA](https://team.inria.fr/airsea/en/) (Inria
-research team), where I work on *Deep Learning for physics inverse problem*.
+## Research and Professional Interests
+I am particularly interested in:
+- Data Science and Machine Learning
+- Predictive Analytics and Modeling
+- Financial and Economic Data Analysis
+- Optimization and Statistical Inference
+- Business Intelligence
 
+## Relevant Projects
+Here are some key projects I’ve worked on:
+- **Pesticide Use Analysis**: Predicting the quantity of pesticide substances purchased based on their attributes and climatic data.
+- **Freelance Math Tutor**: Helping students improve their mathematical skills through personalized tutoring sessions.
+- **Internship at Ecobank Chad**: Hands-on experience in client management and credit monitoring in a professional banking environment.
 
-Research interests
----
-My research interests are (but not limited to)
-* Uncertainty Quantification
-* Data Assimilation
-* Deep Bayesian Methods
-* Physics inverse problem
-* Oceanographic models
-
-
-Relevant links
----
-* [Professional Resume](http://ngartiexauce.github.io/files/Exauce_cv.pdf)
-
-
-
+## Relevant Links
+- [Professional Resume](https://yourwebsite.com/files/Wilfred_CV.pdf)
+- [GitHub Profile](https://github.com/dallaorane-wilfred)
+- [LinkedIn Profile](https://www.linkedin.com/in/wilfred-dallaorane)
