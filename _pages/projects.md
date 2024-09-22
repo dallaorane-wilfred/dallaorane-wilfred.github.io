@@ -13,10 +13,10 @@ redirect_from:
 - **Technologies** : R, Data Science, Modélisation statistique
 - **Dépôt GitHub** : [Analyse de l'utilisation des pesticides](https://github.com/dallaorane-wilfred/Pesticide_project)
 
-### [Analyse d'un article scientifique - IA pour la détection de maladies](https://github.com/dallaorane-wilfred/Disease_Detection_Paper)
+### [Analyse d'un article scientifique - IA pour la détection de maladies](https://github.com/dallaorane-wilfred/AI-in-Disease-Detection-A-Critical-Analysis)
 - **Description du projet** : Une analyse approfondie d'un article scientifique explorant comment l'intelligence artificielle peut être utilisée pour détecter des maladies. L'article discutait de l'utilisation de modèles d'apprentissage automatique, tels que les réseaux de neurones, pour un diagnostic précoce, avec un accent sur l'amélioration des résultats pour les patients grâce à des techniques de détection des maladies plus performantes.
 - **Technologies** : Recherche, Revue de littérature
-- **Dépôt GitHub** : [IA pour la détection de maladies](https://github.com/dallaorane-wilfred/Disease_Detection_Paper)
+- **Dépôt GitHub** : [IA pour la détection de maladies](https://github.com/dallaorane-wilfred/AI-in-Disease-Detection-A-Critical-Analysis)
 
 ## Liens pertinents
 - [Profil GitHub](https://github.com/dallaorane-wilfred)
